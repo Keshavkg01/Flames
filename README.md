@@ -2,12 +2,18 @@
 ### Overview
 This simple Python (or any language) program takes two names as input and plays the classic FLAMES game. It calculates and displays the relationship between the two names based on the letters they share. The relationships are derived from the word "FLAMES":
 
-F - Friends\n
+F - Friends
+
 L - Love
+
 A - Affection
+
 M - Marriage
+
 E - Enemies
+
 S - Siblings
+
 The game works by counting the number of characters that are not common between the two names and using this count to determine the relationship.
 
 ### How it Works
